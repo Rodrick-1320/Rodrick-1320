@@ -1,16 +1,22 @@
-### Hi there 👋
+### Olá, me chamo Rodrigo da Silva e sou um dev junior voltado ao back-end
 
-<!--
-**Rodrick-1320/Rodrick-1320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/Rodrick-1320">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrick-1320&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrick-1320&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <h2>Tecnologias Compreendidas :</h2>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+  </div>
+  
+ 
+  
+  <h1 align="center" style="color:blue;">Grafico de Contribuições</h1>
+  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rodrick-1320&bg_color=050505&color=00fbff&line=00ffee&point=00ffaa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
