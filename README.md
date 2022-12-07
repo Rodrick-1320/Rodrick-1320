@@ -15,6 +15,3 @@
   <img align="center" alt="Rafa-Js" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
   </div>
   
- 
-  
-  <h1 align="center" style="color:blue;">Grafico de Contribuições</h1>
